@@ -19,7 +19,7 @@
      ```json
      {
        "increment_id": "100000001",
-       "status": "complete"
+       "status": "processing"
      }
      ```
    - **Authentication**: Bearer token required.
