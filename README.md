@@ -3,7 +3,7 @@
 ## Instructions to Run the App
 
 1. **Install the module**:
-   - Copy the module to `app/code/Vendor/CustomOrderProcessing`.
+   - Copy the module to `app/code`.
    - Run the following commands:
 
      ```bash
