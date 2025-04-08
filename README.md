@@ -30,6 +30,6 @@
 
 - **Repository Pattern**: Used Magento's `OrderRepository` to handle order fetching and updating, following Magento’s best practices.
 - **Custom API**: Created a REST API for external systems to update order status, ensuring modularity and ease of integration.
-- **Order Processing**: As per the order status, the invoice or shipment is created and trgger email notification in case of shipment.
+- **Order Processing**: As per the order status, the invoice or shipment is created and trigger email notification in case of shipment.
 - **Event-Driven**: Utilized the `sales_order_save_after` event to log status changes.
 - **Email Notifications**: Shipment emails are sent using the `EmailSender` class to ensure compatibility with future versions of Magento.
