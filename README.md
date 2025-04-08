@@ -18,8 +18,8 @@
    - **Request Body**:
      ```json
      {
-       "order_increment_id": "100000001",
-       "new_status": "complete"
+       "increment_id": "100000001",
+       "status": "complete"
      }
      ```
    - **Authentication**: Bearer token required.
