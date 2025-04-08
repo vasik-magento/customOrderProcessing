@@ -14,7 +14,7 @@
      ```
 
 2. **API Endpoint**:  
-   - **URL**: `POST /rest/V1/custom/order/updateStatus`
+   - **URL**: `POST /rest/V1/customorder/status`
    - **Request Body**:
      ```json
      {
